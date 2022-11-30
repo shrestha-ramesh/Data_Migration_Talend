@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_V_NX4Gg-Ee29vPMDTiLJjw" name="DB2" id="_IsI_UGg-Ee29vPMDTiLJjw" label="DB2" dataPackage="_V_r5AGg-Ee29vPMDTiLJjw" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/user?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" dbVersionString="MYSQL_8" Port="3306" Username="sammy" Password="enc:system.encryption.key.v1:uXNmCgedyevBDZhRS5o28oiudH4Q2MkqP82Zphv5hE4Lnlmh" ServerName="localhost" DatasourceName="" FileFieldName="" SID="user" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_V_NX4Wg-Ee29vPMDTiLJjw" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_V_Y-EGg-Ee29vPMDTiLJjw" tag="package filter" value=""/>
+    <taggedValue xmi:id="_V_Y-EWg-Ee29vPMDTiLJjw" tag="Status" value=""/>
+    <taggedValue xmi:id="_V_Y-Emg-Ee29vPMDTiLJjw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_V_Y-E2g-Ee29vPMDTiLJjw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_V_Y-FGg-Ee29vPMDTiLJjw" tag="Description" value=""/>
+    <taggedValue xmi:id="_V_Y-FWg-Ee29vPMDTiLJjw" tag="Author" value=""/>
+    <taggedValue xmi:id="_V_Y-Fmg-Ee29vPMDTiLJjw" tag="otherParameter"/>
+    <taggedValue xmi:id="_V_hg8Gg-Ee29vPMDTiLJjw" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_V_hg8Wg-Ee29vPMDTiLJjw" tag="DB ProductVersion" value="8.0.30"/>
+    <taggedValue xmi:id="_V_hg8mg-Ee29vPMDTiLJjw" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_V_NX4mg-Ee29vPMDTiLJjw" key="CONN_PARA_KEY_USERNAME" value="sammy"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_V_r5AGg-Ee29vPMDTiLJjw" name="user" dataManager="_V_NX4Gg-Ee29vPMDTiLJjw"/>
+</xmi:XMI>

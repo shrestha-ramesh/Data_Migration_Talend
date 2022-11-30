@@ -1,0 +1,16 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="row4.id">
+  <variables name="row3.id" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.car_make" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.car_model" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.car_model_year" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row4.id" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row4.first_name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row4.last_name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row4.gender" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.first_name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.last_name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.gender" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row4.car_make" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row4.car_model" value="null" talendType="id_String" nullable="true"/>
+</expression:EMFExpression>
