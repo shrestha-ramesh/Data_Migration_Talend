@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_5DODwHPwEe2sPLXLv5dnrg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_5DODwXPwEe2sPLXLv5dnrg" comment="" name="host" prompt="host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_5DODwnPwEe2sPLXLv5dnrg" comment="" name="port" prompt="port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_5DODw3PwEe2sPLXLv5dnrg" comment="" name="database" prompt="database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_5DODxHPwEe2sPLXLv5dnrg" comment="" name="user" prompt="user?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_5DODxXPwEe2sPLXLv5dnrg" comment="" name="pwd" prompt="pwd?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_-bI7IHQmEe26wqQL6Vaa7w" comment="" name="db_ConFile" prompt="db_ConFile?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/Users/rameshshrestha/Downloads/talend/config/mySQL_conn.txt&quot;"/>
+</talendfile:ContextType>
